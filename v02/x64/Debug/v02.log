@@ -1,7 +1,0 @@
-﻿  v02.cpp
-C:\Users\krist\Desktop\oop\v02\v02\v02\v02.cpp(432,20): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
-          with
-          [
-              _Rep=std::chrono::system_clock::rep
-          ]
-  v02.vcxproj -> C:\Users\krist\Desktop\oop\v02\v02\x64\Debug\v02.exe
