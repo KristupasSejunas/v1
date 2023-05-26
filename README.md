@@ -3,11 +3,11 @@ Objektinio programavimo uzduotys
 
 ### v0.2
 ### Programos veikimas
-1.	Norint vartotojui duomenis ivesti raka, spauskite 1, jei skaityti is failo - 0 <br>
-2.	Vartotojas turi pasirinkti, ar bus skaiciuojama pagal vidurki (spaudziant 1) ar pagal mediana (spaudziant 0) <br>
-3.	Vartotojas turi pasirinkti, ar ruosiuoti pagal varda (spausti 1) ar pagal pavarde (spausti 0) <br>
-4.	Jeigu vartotojas pasirinko, kad duomenys bus skaitomi is failo, programa automatiskai suraso rezultatus I “kursiokai.txt” faila <br>
-5.	Jeigu vartotojas pasirinko ivesti duomenis ranka, programa veikia v0.1 versijos principu
+1.	Vartotojui norint vesti duomenis ranka, jis turi spausti „1“, norint skaityti iš failo „0“ <br>
+2.	Vartotojas pasirenka, ar galutinis rezultatas bus skaičiuojamas naudojant vidurikį (spaudžia “1”) ar medianą (spaudžia “0”) <br>
+3.	Vartotojas pasirenka, ar galutinį rezultatą rušiuoti pagal vardą (spaudiža “1”) ar pavardę (spaudžia “0”) <br>
+4.	Jeigu vartotojas pasrinko duomenis skaityti iš failo, atsakymas automatiškai sugeneruojamas į failą “kursiokai.txt” <br>
+5.	Jeigu vartotjas pasirinko vesti duomenis ranka, programa veikia kaip v0.1 <br>
 
 ### v0.1
 ### Programos veikimas
